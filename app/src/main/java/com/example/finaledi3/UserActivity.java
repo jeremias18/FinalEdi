@@ -39,8 +39,6 @@ public class UserActivity extends AppCompatActivity {
 
         AdaptadorPeliculas adapter = new AdaptadorPeliculas(ListaPeliculas, edadMax);
         recyclerPeliculas.setAdapter(adapter);
-
-        //Filtrar lista de peliculas segun la edad
     }
 
     public void setRangoEdad(Integer i){
