@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Final edi3</string>
+    <string name="txt_inicio_String">Bienvenido</string>
+    <string name="txt_registro_String">Registrar</string>
+    <string name="txt_login_String">Ingresar</string>
+    <string name="txt_usuario_String">Usuario</string>
+    <string name="txt_datos_usuario_String">Datos del usuario</string>
+    <string name="txt_clave_String">Clave</string>
+    <string name="txt_edad_String">Edad</string>
+    <string name="txt_rango_edad_String">Rango de edad</string>
+    <string name="btt_Registrar">Registrar</string>
+    <string name="btt_Ingresar">Ingresar</string>
+</resources>
